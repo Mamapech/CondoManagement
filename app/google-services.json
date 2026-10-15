@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560236535997",
+    "project_id": "condomanagement-47196",
+    "storage_bucket": "condomanagement-47196.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560236535997:android:bbc594bc8d6592764f17d4",
+        "android_client_info": {
+          "package_name": "com.example.condomanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1E0LmT5H2Vl-g7zi8LBe4JP7kRo7jJZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
